@@ -2,7 +2,7 @@
 🎓 Studying Computer Science at the University of Pennsylvania
 
 
-##Coding
+## Coding
 - 🌱 I’m currently learning OCaml
 - Experience with Python, Java, HTML, CSS, JS, Linux
 
