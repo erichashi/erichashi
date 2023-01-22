@@ -3,7 +3,6 @@
 
 
 ## Coding
-- 🌱 I’m currently learning OCaml
 - Experience with Python, Java, HTML, CSS, JS, Linux
 
 
