@@ -11,19 +11,16 @@ I'm [Your Name], a passionate software developer with a love for coding and crea
 ### 🚀 Skills
 
 - Programming languages: 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100" >
-
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg "Java icon")
-![CLang](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg "C")
-![OCaml](https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg "OCaml")
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript")
-![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg "CSS")
-![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML")
-![Latex](https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg "Latex")
-![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg "Linux")
-![Vim](https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg "Vim")
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Python" width="50" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Python" width="50" >
 
 - Frameworks and libraries: [List of frameworks and libraries you're experienced with].
 ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg "React")
