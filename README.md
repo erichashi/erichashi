@@ -12,7 +12,7 @@ I'm [Your Name], a passionate software developer with a love for coding and crea
 
 - Programming languages: 
 
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg "Python Icon")
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg "Python Icon" | width=50)
 ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg "Java icon")
 ![CLang](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg "C")
 ![OCaml](https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg "OCaml")
