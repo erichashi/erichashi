@@ -1,6 +1,4 @@
-## Hello! 👋
-
-I'm [Your Name], a passionate software developer with a love for coding and creating innovative solutions. Welcome to my GitHub profile!
+## Hello, I'm Eric 👋
 
 ### 💼 Professional Background
 
