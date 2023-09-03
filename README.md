@@ -3,7 +3,7 @@
 ### Professional Background
 
 - 🎓 Computer Science student at the University of Pennsylvania 
-- 🌐 Worked on numerous projects, ranging from small-scale applications to large enterprise solutions.
+- 🌐 Worked on numerous projects, ranging from small-scale app development to large enterprise solutions.
 - ⚡ Strong problem-solving skills and ability to collaborate with cross-functional teams.
 
 ### Skills
@@ -19,7 +19,7 @@
 
 ### Relevant Coursework
 
-- Computer Science: Data Structures and Algorithms I and II, Discrete Math for CS, Automata and State Machines, Computer Operation System,[Artificial Intelligence with Python](https://certificates.cs50.io/eb98545c-cccc-4922-bf18-2f44054174da.pdf?size=letter), [Web Programming with Python and JavaScript](https://certificates.cs50.io/bea46af5-db6a-4abf-801c-b092624a4f44.pdf?size=letter)
+- Computer Science: Data Structures and Algorithms I and II, Discrete Math for CS, Automata and State Machines, Computer Operation System, [Artificial Intelligence with Python](https://certificates.cs50.io/eb98545c-cccc-4922-bf18-2f44054174da.pdf?size=letter), [Web Programming with Python and JavaScript](https://certificates.cs50.io/bea46af5-db6a-4abf-801c-b092624a4f44.pdf?size=letter)
 
 - Math:  Calculus Single-variable, Calculus Multivariable, Linear Algebra
 
@@ -28,7 +28,7 @@
 
 ### Learning and Interests
 
-- 🌟 Passionate about Web, Mobile, and Game Development, Cybersecurity, Blockchain, Artificial Intelligence, Open-Source.
+- 🌟 Passionate about Web, Mobile, and Game Development, Cybersecurity, Blockchain, Artificial Intelligence, Open-Source, Data.
 - 🤝 Open to collaborating on interesting and challenging projects.
 
 ### Let's Connect
