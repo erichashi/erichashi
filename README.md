@@ -2,9 +2,10 @@
 
 ### Professional Background
 
-- 🎓 Computer Science student at the University of Pennsylvania 
-- 🌐 Worked on numerous projects, ranging from small-scale app development to large enterprise solutions.
-- ⚡ Strong problem-solving skills and ability to collaborate with cross-functional teams.
+- 🎓 Computer Science student at the University of Pennsylvania
+- 📈 Interned at [BTG Pactual](https://www.btgpactual.com/us/) as a Data Analyst 
+- 💻 Developer at [Diversatech](https://www.diversatech.org/) Penn
+
 
 ### Skills
 
@@ -28,7 +29,7 @@
 
 ### Learning and Interests
 
-- 🌟 Passionate about Web, Mobile, and Game Development, Cybersecurity, Blockchain, Artificial Intelligence, Open-Source, Data.
+- 🌟 Passionate about Web, Mobile, and Game Development, Design and UX, Artificial Intelligence, Open-Source, Data.
 - 🤝 Open to collaborating on interesting and challenging projects.
 
 ### Let's Connect
